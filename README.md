@@ -17,7 +17,7 @@ If you don't want to share a post at all, simply don't include the `share` prope
 ## How it works
 Instead of serving the same feed file to all different IFTTT channels, **Jekyll Social** creates an individual feed for each social platform which you can then serve its respective IFTTT channel. You can select which posts go into each feed by specifying the `share` property in the post front matter.
 
-### Using your general feed with IFTTT
+### Using your normal feed with IFTTT
 ![Before Jekyll Social](https://raw.githubusercontent.com/eduardoboucas/jekyll-social/master/jekyll-social-1.png)
 
 ### Using Jekyll Social with IFTTT
