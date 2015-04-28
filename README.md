@@ -18,13 +18,13 @@ If you don't want to share a post at all, simply don't include the `share` prope
 Instead of serving the same feed file to all different IFTTT channels, **Jekyll Social** creates an individual feed for each social platform which you can then serve its respective IFTTT channel. You can select which posts go into each feed by specifying the `share` property in the post front matter.
 
 ### Using your normal feed with IFTTT
-![Before Jekyll Social](https://raw.githubusercontent.com/eduardoboucas/jekyll-social/master/jekyll-social-1.png)
+![Before Jekyll Social](https://eduardoboucas.com/assets/posts/2015-04-28-sharing-jekyll-posts-on-social-media-using-front-matter-and-ifttt/jekyll-social-before.png)
 
 ### Using Jekyll Social with IFTTT
-![After Jekyll Social](https://raw.githubusercontent.com/eduardoboucas/jekyll-social/master/jekyll-social-2.png)
+![After Jekyll Social](https://eduardoboucas.com/assets/posts/2015-04-28-sharing-jekyll-posts-on-social-media-using-front-matter-and-ifttt/jekyll-social-after.png)
 
 ## How to use
-Check [this post](http://#) for detailed information about the implementation and how to set everything up.
+Check [this blog post](https://eduardoboucas.com/blog/2015/04/28/sharing-jekyll-posts-on-social-media-using-front-matter-and-ifttt.html) for detailed information about the implementation and how to set everything up.
 
 ## Custom formats
 By default, all the social media platforms share the same layout in **Jekyll Social**, but it's possible to create a custom behavior for individual platforms. 
