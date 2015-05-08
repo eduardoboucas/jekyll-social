@@ -1,5 +1,5 @@
 # Jekyll Social
-Select what social media platforms to share your Jekyll blog posts on, right from the front matter.
+> Select what social media platforms to share your Jekyll blog posts on, right from the front matter.
 
 ## The idea
 If you're the author of a blog, you probably want to share your posts with as many people as possible and you're probably using social media platforms to do that. Instead of doing that manually, you can take advantage of services like [IFTTT](https://ifttt.com/) to automate the process, especially since Jekyll ships with a RSS feed file you can use to communicate with third-parties.
